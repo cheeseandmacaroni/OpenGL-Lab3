@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\bin\Debug\OpenGLRayTracing.exe.config
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\bin\Debug\OpenGLRayTracing.exe
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\bin\Debug\OpenGLRayTracing.pdb
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\bin\Debug\OpenTK.dll
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\bin\Debug\OpenTK.pdb
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\bin\Debug\OpenTK.xml
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\obj\Debug\OpenGLRayTracing.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\obj\Debug\OpenGLRayTracing.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\obj\Debug\OpenGLRayTracing.csproj.CopyComplete
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\obj\Debug\OpenGLRayTracing.exe
+C:\Users\Nikita\source\repos\OpenGLRayTracing\OpenGLRayTracing\obj\Debug\OpenGLRayTracing.pdb
